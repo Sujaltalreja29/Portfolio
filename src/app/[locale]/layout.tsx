@@ -60,7 +60,6 @@ export async function generateMetadata({
             default: t("default-seo-title"),
             template: "%s | Serdar Gökhan"
         },
-        description: t("default-seo-description"),
         icons: {
             shortcut: "/favicon.ico",
             apple: "static/apple-icon.png",
@@ -105,7 +104,6 @@ export async function generateMetadata({
         },
         openGraph: {
             title: "Serdar Gökhan",
-            description: t("default-seo-description"),
             url: `${BASE_URL}/${locale}`,
             siteName: "Serdar Gökhan",
             locale,

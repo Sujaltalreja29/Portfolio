@@ -12,11 +12,6 @@ export const categoryButtons = [
         icon: ReactIcon
     },
     {
-        id: "reactNative",
-        title: "React Native",
-        icon: ReactIcon
-    },
-    {
         id: "javascript",
         title: "Javascript",
         icon: JavascriptIcon
