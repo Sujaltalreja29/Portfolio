@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 import { useTranslations } from "next-intl";
 import { cn } from "@src/utils";
 import { NextImage, NextLink } from "@src/components/common";
-import SiteLogo from "@public/images/common/site-logo.svg";
+import SiteLogo from "@public/images/common/professional-portfolio.svg";
 
 const navigationLinks = ["about", "projects", "contact"] as const;
 
