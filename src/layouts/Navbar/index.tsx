@@ -66,7 +66,7 @@ export default function Navbar() {
                 <div className="group inline-block">
                     <NextLink
                         className="inline-block rounded-md border border-primary-300 bg-white px-4 py-1.5 font-medium transition duration-200 group-hover:-translate-y-1 group-hover:translate-x-1 group-hover:shadow-[-4px_4px_0px_0px_#ffd300]"
-                        href="/resume.pdf"
+                        href="/resume_latest.pdf"
                         target="_blank"
                         prefetch={false}
                     >
